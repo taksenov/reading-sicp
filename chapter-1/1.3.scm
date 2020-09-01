@@ -12,3 +12,4 @@
 )
 
 (some-epic one two three)
+(some-epic 1 2 3)
